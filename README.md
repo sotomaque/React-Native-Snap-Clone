@@ -9,3 +9,4 @@ You'll likely want to run this on a device so the camera actually works.
 - `npm install`
 - [Run on iOS](https://facebook.github.io/react-native/docs/running-on-device-ios.html#accessing-development-server-from-device)
 - [Run on Android](https://facebook.github.io/react-native/docs/running-on-device-android.html)
+# React-Native-Snap-Clone
